@@ -79,7 +79,7 @@ public class ex01 {
                 break;
             case 4:
                 for (int i = 0; i < 50; i++) {
-                    System.out.println("Yuri Thome Marini Silva");
+                    System.out.println("Yuri");
                 }
             default:
                 break;
